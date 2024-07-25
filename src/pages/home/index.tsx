@@ -54,7 +54,7 @@ export default function Home() {
         </div>
 
         <p className="text-zinc-500 text-sm">
-          Ao planejar sua viagme pela plann.er você automaticamente concorda <br />com nossos <a href="#" className="underline text-zinc-300">termos de uso</a> e <a href="#" className="underline text-zinc-300">politicas de privacidade</a>.
+          Ao planejar sua viagem pela plann.er você automaticamente concorda <br />com nossos <a href="#" className="underline text-zinc-300">termos de uso</a> e <a href="#" className="underline text-zinc-300">politicas de privacidade</a>
         </p>
       </div>
 
